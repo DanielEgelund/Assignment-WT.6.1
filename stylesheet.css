@@ -1,0 +1,257 @@
+body{
+    font-family: Helvetica;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+    border-bottom: 1.8px solid #F2F0EF;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#DRIcon {
+    width: 60px;
+    height: 20px;
+    margin-left: 1%;
+    margin-top: 0.8%;
+}
+
+#midNav{
+    text-align: center;
+    width: 100%;
+    margin-left: 20%;
+}
+#midNav a{
+    text-align: center;
+    padding-left: 8%;
+}
+
+#rightNav{
+    width: 100%;
+    text-align: right;
+    margin-right: 5px;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+#kontakt {
+    float: right;
+    margin-right: 30px;
+    margin-top: 5px;
+}
+
+#search{
+    float: right;
+    width: 25px;
+    margin-right: 30px;
+    margin-bottom: 5px;
+}
+
+#menu{
+    float: right;
+    width: 25px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+#section1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#underline{
+    border-bottom: 1.8px solid #F2F0EF;
+    width: 990px;
+    margin: auto;
+}
+
+#section1 article {
+    width: 120px;
+    height: 60px;
+    padding: 10px;
+    margin-top: 20px ;
+    margin-left: 15px ;
+    margin-right: 15px ;
+    background: #F2F0EF;
+    margin-bottom: 40px;
+}
+
+#section2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 120px;
+    margin-top: 20px;
+    background-color: #F2F0EF;
+}
+
+#latest{
+    margin-top: -7px;
+    width: 120px;
+    height: 20px;
+    background-color: red;
+    color: white;
+    padding-left: 15px;
+    padding-top: 6px;
+    font-weight: 600;
+    margin-left: -15px;
+}
+
+#section2 article{
+    width: 315px;
+    height:100%;
+    background-color: #F2F0EF;
+    padding-left: 15px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#section2 article p{
+    color: red;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#min1, #min2{
+    margin-top: 30px;
+}
+
+#outersection{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#section3 {
+    background-color: #F2F0EF;
+    width: 640px;
+    margin-right: 30px;
+}
+
+#section3 article p{
+    margin-left: 20px;
+}
+
+#textme{
+    font-size: 30px;
+    height: 405px;
+    width: 640px;
+}
+
+#textmetext{
+    margin-left: 20px;
+}
+
+#underline2 {
+    border-bottom: 1.8px solid #cecece;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#section4 {
+    width: 320px;
+}
+
+#dreng{
+    height: 180px;
+    width: 320px
+}
+
+.headerArt{
+    color: red;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#foraeldre {
+    font-weight: bold;
+    font-size: 16px;
+    padding-bottom: 50px;
+    border-bottom: 1.8px solid #F2F0EF;
+}
+
+#american{
+    padding-top: 20px;
+    height: 180px;
+    width: 320px
+}
+
+#fakel{
+    margin-left: 20px;
+    height: 110px;
+    width: 200px;
+    float: left;
+}
+
+#indland{
+    color: red;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 210px;
+}
+
+#drabet{
+    font-weight: bold;
+    font-size: 14px;
+    padding-left: 230px;
+    width: 400px;
+}
+
+#Amerikansk {
+    color: black;
+    font-weight: bold;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+#underline3 {
+    margin-top: 45px;
+    border-bottom: 1.8px solid #F2F0EF;
+    width: 320px;
+}
+
+#section5{
+    display: grid;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#section5 p{
+    color: red;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#section5 figcaption{
+    font-weight: bold;
+    font-size: 26px;
+    width: 990px;
+
+}
+
+#hockey {
+    height: 180px;
+    width: 320px;
+    float: left;
+    margin-right: 30px;
+}
+
+#underline4{
+    border-bottom: 1.8px solid #F2F0EF;
+    width: 990px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
